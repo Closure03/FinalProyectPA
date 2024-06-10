@@ -1,6 +1,5 @@
 import express, { Request, Response } from 'express';
 import * as estudiantesControllers from '../controllers/estudiantesControllers';
-import * as create from '../controllers/estudiantesControllers';
 import {Estudiantes } from '../models/estudiantesModels';
 //import * as inscribeControllers from '../controllers/inscribeControllers';
 //import {Inscribe } from '../models/inscribeModels';

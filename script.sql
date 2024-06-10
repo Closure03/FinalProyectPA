@@ -1,4 +1,4 @@
--- Active: 1717959940251@@127.0.0.1@3306@universidad
+-- Active: 1718047552957@@127.0.0.1@3306@universidad
 CREATE TABLE Estudiantes (
     cod_e BIGINT CHECK(cod_e > 0),
     nom_e VARCHAR(100) NOT NULL,
